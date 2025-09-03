@@ -1,7 +1,7 @@
 # README
 
 ## Overview
-This project contains **Google Colab notebooks** for analyzing Air Quality Index (AQI) data across major Indian cities and employee work preference data. Follow the instructions below to successfully run the notebooks and generate the required outputs.
+This project contains **Google Colab notebooks** and a **Power BI dashboard** for analyzing Air Quality Index (AQI) data across major Indian cities and employee work preference data. Follow the instructions below to successfully run the notebooks and generate the required outputs.
 
 ---
 
@@ -40,7 +40,19 @@ Upload the following CSV file into Colab before running the notebook:
 
 ---
 
+## 3. **Interactive AQI Dashboard (Power BI)**
+
+### File Required
+- `MSc_Project_AQI_Dashboard.pbix`
+
+### Steps to Open
+1. Open the file **MSc_Project_AQI_Dashboard.pbix** in Power BI Desktop.
+2. The dashboard will provide an **interactive visualization** of AQI trends across the cities.
+3. Use the filters and slicers to explore the data regionally and compare city-level AQI variations.
+
+---
+
 ## Notes
 - Ensure the dataset filenames match exactly as listed above.
-- These instructions are intended for **testing** the Python code.
+- These instructions are intended for **testing** the Python code and exploring the **interactive dashboard**.
 - Run each notebook separately with its corresponding dataset.
